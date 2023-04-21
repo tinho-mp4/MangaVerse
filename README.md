@@ -1,1 +1,1 @@
-# ManagaVerse
+# MangaVerse
